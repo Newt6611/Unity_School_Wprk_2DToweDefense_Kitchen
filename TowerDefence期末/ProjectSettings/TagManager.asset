@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Drug
+  - GameManager
+  - Rat
+  - PlayerBullet
+  - SlipperBullet
+  - CockRoach
+  - Insecticide
+  - SwatterBullet
+  - Ant
+  - Mosquito
+  - MosquitoBullet
+  - FlyBullet
+  - Fly
+  - Base
+  - Node
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Node
+  - Drug
+  - PlayerBullet
+  - EnemyBullet
+  - cursor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1391257527
+    locked: 0
+  - name: New Layer
+    uniqueID: 2654662881
+    locked: 0
